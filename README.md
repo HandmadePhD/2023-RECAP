@@ -1,5 +1,7 @@
 # 2023 RECAP
 
+I am running this code on a MacBook Pro with macOS Ventura version 13.3.
+
 Download repository:
 
 ```bash
