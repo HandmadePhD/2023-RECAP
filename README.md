@@ -76,8 +76,6 @@ and click the "Install" button to install.
 
 Download repository:
 
-Download repository:
-
 ```powershell
 cd \path\to\directory # e.g., C:\Users\handmadephd\Documents\github
 git clone https://github.com/HandmadePhD/2023-RECAP.git
