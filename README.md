@@ -44,3 +44,10 @@ jupyter notebook
 Navigate to the desired month and open the *.ipynb file. You should be able to run the code without making any changes. If you want to use your own data, use [2023-recap.xlsx](2023-recap.xlsx) as a template.
 
 Happy coding!
+
+If you ever want to update the repository:
+
+```
+cd /path/to/directory/2023-RECAP
+git pull
+```
