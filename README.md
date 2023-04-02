@@ -2,6 +2,8 @@
 
 I am running this code on a MacBook Pro with macOS Ventura version 13.3.
 
+You will need to install the XKCD font on your computer. You can download the font from [https://github.com/ipython/xkcd-font](https://github.com/ipython/xkcd-font).
+
 Download repository:
 
 ```bash
