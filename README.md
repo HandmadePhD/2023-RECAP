@@ -45,9 +45,21 @@ jupyter notebook
 
 Navigate to the desired month and open the *.ipynb file. You should be able to run the code without making any changes. If you want to use your own data, use [2023-recap.xlsx](2023-recap.xlsx) as a template.
 
-Happy coding!
+For quick loading of the virtual python environment, you can add the following alias directly to your `~/.zsh_alias`:
 
-If you ever want to update the repository:
+```bash
+alias recap='source /Users/handmadephd/Applications/pyenv/2023-RECAP/bin/activate'
+```
+
+Don't forget to include the following to your `~/.zshrc`:
+
+```bash
+if [ -f ~/.zsh_aliases ]; then
+  . ~/.zsh_aliases
+fi
+```
+
+To update the repository:
 
 ```
 cd /path/to/directory/2023-RECAP
